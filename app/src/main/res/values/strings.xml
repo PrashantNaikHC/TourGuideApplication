@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">TourApplication</string>
+
+    <string name="restaurant_1">Shiva Sagar</string>
+    <string name="restaurant_desc_1">Multicuisine restaurant famous for the coastal sea food</string>
+
+    <string name="restaurant_2">Kamat</string>
+    <string name="restaurant_desc_2">Oldest vegetarian restaurant in the town</string>
+
+    <string name="restaurant_3">Machlee</string>
+    <string name="restaurant_desc_3">Restaurant offering variety of seafood especially crabs</string>
+
+    <string name="restaurant_4">Siddartha</string>
+    <string name="restaurant_desc_4">Vegetarian restaurant with parking place and lodging facility</string>
+
+    <string name="restaurants">Hotels</string>
+    <string name="landmarks">Landmarks</string>
+    <string name="attractions">Historic</string>
+    <string name="temples">Temples</string>
+
+    <string name="attraction_1">Apsarakonda</string>
+    <string name="attraction_desc_1">Beach on the wonderful west coast of karnataka</string>
+
+    <string name="attraction_2">Colnel Hill</string>
+    <string name="attraction_desc_2">Monument which is constructed in remembrance of a war veteran</string>
+
+    <string name="attraction_3">Karki hanging bridge</string>
+    <string name="attraction_desc_3">One of the oldest hanging bridges in the town</string>
+
+    <string name="attraction_4">Honnavar port</string>
+    <string name="attraction_desc_4">One of the important ports in the west coast of karnataka with a historical importance</string>
+
+    <string name="temple1">Moodaganapati Temple</string>
+    <string name="temple_desc_1">Temple located on the topmost part of Honnavar with historic prominence</string>
+
+    <string name="temple2">Anjaneya Temple</string>
+    <string name="temple_desc_2">Temple located on the Honnavar port</string>
+
+    <string name="temple3">Venkateshwara Temple</string>
+    <string name="temple_desc_3">Temple located on the central part of the town being one of the prominent ones in the town</string>
+
+    <string name="temple4">Shani Temple</string>
+    <string name="temple_desc_4">Being the small temple has considerable amount of followers</string>
+
+    <string name="landmark_1">Prathibodaya</string>
+    <string name="landmark_desc_1">Place where many cultural events happen.</string>
+
+    <string name="landmark_2">Light house</string>
+    <string name="landmark_desc_2">Light house on the beautiful west coast of karnataka.</string>
+
+    <string name="googleMaps">com.google.android.apps.maps</string>
+    <string name="getLocation">Getting location for </string>
+
+</resources>
